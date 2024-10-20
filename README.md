@@ -7,3 +7,7 @@ I had been learning Terraform through the udemy course. Now I wished to apply on
 - Deploy a select resource through Terraform
 
 This is a working in progress and may not be fully complete. I wish to add more into this github repository when it is done. 
+
+Topics I will cover.
+- Configure a secure Azure link from Azure to Terraform to deploy the apps with appropirate roles and permissions. 
+- 
